@@ -1,3 +1,0 @@
-To jest pierwszy wiersz.
-To jest drugi wiersz.
-A to jest trzeci wiersz.
